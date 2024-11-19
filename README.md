@@ -1,7 +1,10 @@
 # app-dev
 My first Repository
 
+
 Introduction *The Mang Kanor* is one of my favorite movie when i was i child i watch this multiple time like i never bored to this movie because it's fantasy i child i adore this movie
+
+
 
 Synopsis "The Chronicles of Mang Kanor: The Sister, the Assassin and the Girl" is the first film in the Mang Kanor film series, following the Sister during World War II. the sister, discovers a magical wardrobe that leads them to Mang Kanor, where they become prophesied heroes to end the White Assassin's reign. They face challenges, sacrifices, and challenges, ultimately joining forces to confront the White Assassin in a climactic battle for Mang Kanor's freedom. The film explores themes of bravery, loyalty, sacrifice, and the triumph of good over evil.
 
